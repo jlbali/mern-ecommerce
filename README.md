@@ -6,7 +6,11 @@ Example e-commerce site
 
 (Ref: https://create-react-app.dev/docs/adding-typescript/)
 
-npx create-react-app my-app --template typescript frontend
+npx create-react-app my-app --template typescript
+
+Renombrar my-app a frontend.
+
+
 
 
 
