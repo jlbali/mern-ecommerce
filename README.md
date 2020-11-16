@@ -23,3 +23,9 @@ Desde bootswatch.com se bajó el estilo Lux, el bootstrap.min.css y se colocó e
 Ir a cdnjs.com, y ahí buscar font-awesome. Copiar el link tag.
 
 
+
+## TODO:
+
+- Base de datos implementado a través de un Docker, para mayor prolijidad.
+
+
