@@ -1,2 +1,2 @@
-# mern_ecommerce
+# mern-ecommerce
 Example e-commerce site
